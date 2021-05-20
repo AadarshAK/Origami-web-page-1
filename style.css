@@ -1,0 +1,16 @@
+.welcome{
+    background-color: orangered;
+    display: flex;
+    justify-content: center;
+}
+
+.tagline{
+    background-color: #138808;
+    display: flex;  
+    justify-content: center;
+}
+
+h2,h3{
+    text-align: center;
+    background-color:yellow;
+}
